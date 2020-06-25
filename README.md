@@ -1,7 +1,8 @@
 # Ex-Nihilo-Adscensio
-The next in a long line of Ex Nihilo skyblock mods. This one is for MC 1.15.2 using Minecraft Forge and is a rewrite of Ex Nihilo Adscensio and Ex Compressum
+The next in a long line of Ex Nihilo skyblock mods. This one is for MC 1.15.2 using Minecraft Forge and is a rewrite of Ex Nihilo Adscensio and Ex Compressum.
 There have been many mods with the Ex Nihilo name, here is a short history
 
+    1.15+ Ex Nihilo Adscensio (Oakleafknight06)
     1.14.4 Ex Nihilo Fabrico (SirLyle)
     1.12.2 Ex Compressum, an addon mod for Adscensio  and Creatio (Blay09)
     1.12.* Ex Nihilo Creatio, direct fork of Adscensio (BloodWorkXGaming, SirLyle)
