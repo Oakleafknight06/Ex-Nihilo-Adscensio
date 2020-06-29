@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "exnihiloadscensio:block/dust" },
+            { "model": "exnihiloadscensio:block/dust", "y": 90 },
+            { "model": "exnihiloadscensio:block/dust", "y": 180 },
+            { "model": "exnihiloadscensio:block/dust", "y": 270 }
+        ]
+    }
+}

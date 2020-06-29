@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "excompressum:compressed_hammer_diamond"
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "type": "excompressum:nihilo_item",
+      "value": "HAMMER_DIAMOND",
+      "data": 0
+    }
+  },
+  "conditions": [
+    {
+      "type": "excompressum:has_nihilo_item",
+      "value": "HAMMER_DIAMOND"
+    }
+  ]
+}

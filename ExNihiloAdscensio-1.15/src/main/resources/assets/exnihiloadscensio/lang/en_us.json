@@ -1,0 +1,11 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "item.exnihloadscensio.stone_pebble": "Stone Pebble",
+  "item.exnihloadscensio.granite_pebble.name": "Granite Pebble",
+  "item.exnihloadscensio.diorite_pebble.name": "Diorite Pebble",
+  "item.exnihloadscensio.andesite_pebble.name": "Andesite Pebble",
+  "item.exnihiloadscensio.ore_chunk.name": "Ore Chunk",
+  "item.exnihiloadscensio.ore_piece.name": "Ore Piece"
+}

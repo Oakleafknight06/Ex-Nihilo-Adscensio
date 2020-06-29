@@ -1,0 +1,36 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "excompressum:mana_sieve",
+    "transform": "forge:default-block",
+    "textures": {
+      "texture_glass": "excompressum:blocks/auto_frame_glass"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": {
+      },
+      "south": {
+        "y": 180
+      },
+      "west": {
+        "y": 90
+      },
+      "east": {
+        "y": -90
+      }
+    },
+    "ugly": {
+      "true": {
+        "textures": {
+          "texture_glass": "excompressum:blocks/auto_frame_glass_ugly"
+        }
+      },
+      "false": {
+      }
+    }
+  }
+}

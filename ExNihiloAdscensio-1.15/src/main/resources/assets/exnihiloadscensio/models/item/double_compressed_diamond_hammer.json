@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "exnihiloadscensio:items/double_compressed_diamond_hammer"
+  }
+}
